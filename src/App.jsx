@@ -1,14 +1,14 @@
 import React, { useState } from 'react';
 import './App.css'; 
 import "bootstrap/dist/css/bootstrap.min.css";
-import RockPaperScissors from './RockPaperScissors.jsx';
-import MyLuckyDay from './MyLuckyDay.jsx';
-import MatchMaking from './MatchMaking.jsx';
-import KnowYourGender from './KnowYourGender.jsx';
-import TodayMenu from './TodayMenu.jsx';
-import Pswd from './Pswd.jsx';
-import Roll from './Roll.jsx';
-import Otp from './Otp.jsx';
+import RockPaperScissors from './components/RockPaperScissors.jsx';
+import MyLuckyDay from './components/MyLuckyDay.jsx';
+import MatchMaking from './components/MatchMaking.jsx';
+import KnowYourGender from './components/KnowYourGender';
+import TodayMenu from './components/TodayMenu';
+import Pswd from './components/Pswd';
+import Roll from './components/Roll';
+import Otp from './components/Otp';
 import AppName from './AppName.jsx';
 
 
